@@ -7,8 +7,7 @@
 
  /**
   * @file ActionPortDisconnect.cpp
-  * @author Luca Tricerri <luca.tricerri@iit.it>
-  *         Nicolo' Genesio <nicolo.genesio@iit.it>
+  * @author Davide Tomé <davide.tome@iit.it>
   */
 
 #include <actionCanClose.h>
